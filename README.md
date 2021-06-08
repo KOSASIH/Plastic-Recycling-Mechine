@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/Plastic-Recycling-Mechine)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/Plastic-Recycling-Mechine)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Plastic-Recycling-Mechine/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
